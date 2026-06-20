@@ -1,6 +1,3 @@
-# mri-brain-tumor-detection-system
-An AI-powered system using Deep Learning (U-Net &amp; Transfer Learning) to detect, classify, and segment brain tumors from MRI images.# MRI Analysis System for Brain Tumor Detection
-
 An advanced, intelligent medical imaging system designed to automate the analysis of Brain MRI scans. The system utilizes Deep Learning techniques to provide accurate detection, classification, and segmentation of brain tumors, serving as a reliable clinical decision support tool for radiologists.
 
 ## 🚀 Key Features
